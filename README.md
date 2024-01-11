@@ -1,5 +1,6 @@
-# Base-de-dades
-SQL
+# Sprint 1.  Bases de dades relacionals (SQL)
+
+## Tasca M1 T01
 
 ### Exercici 1
 A partir dels documents adjunts (estructura i dades), crea una base de dades amb MySQL. Mostra les característiques principals de l'esquema creat i explica les diferents taules i variables que hi ha.
